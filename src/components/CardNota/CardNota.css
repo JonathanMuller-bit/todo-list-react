@@ -1,0 +1,30 @@
+.card-nota{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(226, 226, 57);
+    padding: 10%;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    
+}
+
+.card-nota_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-nota_categoria{
+    color: rgb(49, 47, 47);
+    font-style: italic;
+}
+
+.card-nota_titulo{
+    text-transform: uppercase;
+}
+
+.card-nota_texto{
+    flex-grow: 1;
+}

@@ -1,0 +1,5 @@
+.conteudo{
+    display: flex;
+    margin:  0 2%;;
+    justify-content: space-between;
+}

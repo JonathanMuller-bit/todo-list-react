@@ -1,0 +1,41 @@
+.lista-categorias{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid lightgray;
+    align-items: center;
+    margin: 2%;
+    padding-bottom: 2%;
+    width: 100%;
+
+}
+
+.lista-categorias_lista{
+    display: flex;
+    list-style: none;
+    justify-content: left;
+    margin: 2%;
+    flex-wrap: wrap;
+    flex-grow: 1;
+
+}
+
+.lista-categorias_item{
+    background-color: black;
+    padding: 1%;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+    margin: 0 2%;
+    width: 120px;
+    text-align: center;
+}
+
+.lista-categorias_input{
+    
+    min-width: 20%;
+    padding: 1%;
+    
+    
+}
+

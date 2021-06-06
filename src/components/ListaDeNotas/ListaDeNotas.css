@@ -1,0 +1,19 @@
+.lista-nota_lista{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+   
+}
+
+.lista-nota{
+    flex-grow: 1;
+}
+
+.lista-nota_card{
+    
+    list-style: none;
+    margin: 0 2% 2% 2%;
+    
+}
+
+

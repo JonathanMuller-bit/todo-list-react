@@ -1,0 +1,43 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 2% 0 0 2%;
+   
+
+}
+
+.formulario_select{
+    padding: 2%;
+    min-width: 430px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 2%;
+}
+
+.formulario_titulo{
+    padding: 3%;
+    min-width: 400px;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.formulario_nota{
+    min-width: 400px;
+    margin: 2% 0;
+    height: 40vh;
+    padding: 3%;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.formulario_botao{
+    padding: 3%;
+    width: 50%;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
