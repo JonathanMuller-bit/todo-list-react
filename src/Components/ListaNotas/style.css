@@ -1,0 +1,16 @@
+.lista-notas{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2%;
+  
+}
+
+.lista-notas_item{
+    
+    display: flex;
+   
+    
+
+}
+

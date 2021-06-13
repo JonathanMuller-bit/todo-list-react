@@ -1,0 +1,27 @@
+.menu-categorias {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 95%;
+    padding: 1% 0;
+}
+.menu-categorias_lista {
+    display: flex;
+    list-style: none;
+    flex-grow: 1;
+    flex-wrap: wrap;
+}
+
+.menu-categorias_item {
+    margin: 2%;
+    background-color: rgb(26, 26, 73);
+    padding: 1%;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.menu-categorias_input {
+    padding: 1%;
+    margin: 3% 0;
+}

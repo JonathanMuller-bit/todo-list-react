@@ -1,0 +1,27 @@
+.card {
+    width: 230px;
+    height: 200px;
+    background-color: rgb(214, 214, 19);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 2% 2% 0;
+    padding: 10%;
+}
+
+.card_titulo {
+    font-weight: bold;
+    text-align: center;
+}
+.card_texto {
+    flex-grow: 1;
+}
+
+.card_categoria {
+    font-style: italic;
+    color: rgb(78, 73, 73);
+    font-size: 0.9rem;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
